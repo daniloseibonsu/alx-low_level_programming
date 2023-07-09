@@ -1,10 +1,12 @@
 #include "main.h"
+
 /**
- * main - Entry point
+ * _puts - Escribir un texto
  *
- * Return: Always 0 (Success)
+ * @str: This is my entry
+ *
  */
-#include<stdio.h>
+
 void _puts(char *str)
 {
 	int a;
